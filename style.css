@@ -1,0 +1,38 @@
+h1{
+    color:midnightblue
+
+}
+h2{
+    color:midnightblue;
+    text-align: center;
+}
+p{
+    color:rgb(255, 255, 255);
+    text-align:center;
+}
+/* *{
+    border:solid
+} */
+.header{
+    background-color:rgb(168, 168, 241);
+    display:flex;
+    justify-content:space-between;
+
+}
+.grid{
+    background-color:rgb(168, 168, 241);
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color:rgb(168, 168, 241);
+    display:flex;
+    justify-content: flex-end;
+}
+.siteDescription p{
+    color: midnightblue;
+}
+body{
+    background-color: rgb(243, 189, 207);
+}
